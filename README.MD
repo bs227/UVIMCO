@@ -25,8 +25,8 @@ This API provides endpoints to calculate daily returns and alpha for stock ticke
 - **Response:** Calculates and returns the alpha of the specified ticker compared to the benchmark over the specified date range.
 
 ## How to Use
-1.Install visual studio code
-2.Open the project
-3.install the dependencies
-4.start the server(http://localhost:3000/)
-5.http://localhost:3000/api to open the swagger API 
+-1.Install visual studio code
+-2.Open the project
+-3.install the dependencies
+-4.start the server(http://localhost:3000/)
+-5.http://localhost:3000/api to open the swagger API 
