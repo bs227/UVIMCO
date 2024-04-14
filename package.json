@@ -1,0 +1,19 @@
+{
+  "name": "iex-stock-ms",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apperate/iexjs": "0.10.0",
+    "dotenv": "16.4.5",
+    "express": "4.19.2",
+    "swagger-jsdoc": "6.2.8",
+    "swagger-ui-express": "4.6.3"
+  }
+}
