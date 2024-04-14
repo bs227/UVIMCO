@@ -15,7 +15,7 @@ const options = {
             version: '1.0.0'
         },
         servers: [{
-            url: 'https://silver-space-succotash-q7p9x5x44gwhvvv-3000.app.github.dev/'
+            url: 'http://localhost:3000/'
         }]
     },
     apis: ['./index.js']
